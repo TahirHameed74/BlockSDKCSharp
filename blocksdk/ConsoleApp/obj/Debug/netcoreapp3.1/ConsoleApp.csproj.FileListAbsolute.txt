@@ -1,0 +1,17 @@
+D:\Projects\testing\blocksdk\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+D:\Projects\testing\blocksdk\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+D:\Projects\testing\blocksdk\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+D:\Projects\testing\blocksdk\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+D:\Projects\testing\blocksdk\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\Projects\testing\blocksdk\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\Projects\testing\blocksdk\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\Projects\testing\blocksdk\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+D:\Projects\testing\blocksdk\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\testing\blocksdk\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\Projects\testing\blocksdk\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\Projects\testing\blocksdk\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+D:\Projects\testing\blocksdk\ConsoleApp\bin\Debug\netcoreapp3.1\BlockSDK.dll
+D:\Projects\testing\blocksdk\ConsoleApp\bin\Debug\netcoreapp3.1\BlockSDK.pdb
+D:\Projects\testing\blocksdk\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+D:\Projects\testing\blocksdk\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+D:\Projects\testing\blocksdk\ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

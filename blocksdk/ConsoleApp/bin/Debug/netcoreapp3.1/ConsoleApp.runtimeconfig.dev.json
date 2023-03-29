@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\chandimal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\chandimal\\.nuget\\packages"
+    ]
+  }
+}
